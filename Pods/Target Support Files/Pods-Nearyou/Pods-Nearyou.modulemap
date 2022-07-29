@@ -1,0 +1,6 @@
+framework module Pods_Nearyou {
+  umbrella header "Pods-Nearyou-umbrella.h"
+
+  export *
+  module * { export * }
+}
